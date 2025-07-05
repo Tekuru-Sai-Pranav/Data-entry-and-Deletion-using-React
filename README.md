@@ -1,6 +1,6 @@
 #  Data Entry and Deletion using React
 
-A simple and clean React.js application that allows users to **add and delete data entries** dynamically. This project is perfect for learning basic React concepts such as state management, component structure, and browser storage using `localStorage`.
+A simple React.js application that allows users to **add and delete data entries** dynamically. This project is for learning basic React concepts such as state management, component structure.
 
 ---
 
